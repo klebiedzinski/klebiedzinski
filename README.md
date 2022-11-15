@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**klebiedzinski/klebiedzinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Karol! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I'm a second year CS student at Uniwersytet Gdański. 
+
+Most of my repositories contain exercises from the university course:
+
+ - frontend-development - :man_technologist: in progress :man_technologist: 
+
+ - protokoly-sieci-web - :man_technologist: in progress :man_technologist: 
+
+ - javascript - :white_check_mark:
+
+ - scala-basics-and-actors - :white_check_mark:
+
+ - html/css - :white_check_mark:
+
+
+I'm currently colaborating in [game-project-gamifikacja](https://github.com/UniversityOfGdanskProjects/game-project-gamifikacja)
