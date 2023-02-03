@@ -1,5 +1,5 @@
 
-# Hi, I'm [Karol](https://www.facebook.com/karol.lebiedzinski.98/) 👋
+# Hi, I'm Karol 👋
 
 
  I'm a second year CS student at University of Gdańsk. 
