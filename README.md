@@ -6,7 +6,7 @@
 
  Most of my repositories contain exercises from the university course.
 
-# Things I'm actually proud of:
+# Projects:
 - [Włocławska Basket Liga](https://github.com/klebiedzinski/wbl)
 
 
